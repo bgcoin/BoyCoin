@@ -2,8 +2,7 @@
 http://www.boyscoin.com
 
 ## What is Boycoin?
-Boycoin is like Bitcoin, but based on Litecoin, and also much more wow.
-http://www.boyscoin.com
+Boycoin is like Bitcoin, but based on Litecoin. http://www.boyscoin.com
 
 ## License
 Boycoin is released under the terms of the MIT license. See [COPYING](COPYING)
