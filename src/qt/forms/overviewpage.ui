@@ -203,6 +203,21 @@
       </spacer>
      </item>
      <item>
+        <widget class="QLabel" name="label_wallet_bg">
+         <property name="text">
+          <string/>
+         </property>
+         <property name="pixmap">
+          <pixmap resource="../bitcoin.qrc">:/images/res/images/wallet-bg.png</pixmap>
+         </property>
+         <property name="alignment">
+          <set>Qt::AlignCenter</set>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </item>
+     <item>
       <widget class="QLabel" name="label_6">
        <property name="text">
         <string/>
